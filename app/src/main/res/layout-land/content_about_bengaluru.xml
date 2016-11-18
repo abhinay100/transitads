@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.transit_ads.tabs.AboutBengaluru"
+    tools:showIn="@layout/activity_about_bengaluru"
+    android:background="#F7921E">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/linearLayout"
+        android:background="#000000"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="fill_parent"
+            android:id="@+id/transit_main_logo"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:scaleType="fitXY"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/user_icon"
+            android:layout_marginLeft="327dp"
+            android:src="@drawable/usericon"
+            android:layout_marginStart="327dp"
+            android:layout_alignTop="@+id/imageView22"
+            android:layout_toRightOf="@+id/transit_main_logo"
+            android:layout_toEndOf="@+id/transit_main_logo" />
+
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Hi , John Doe"
+            android:id="@+id/dispUserName"
+            android:textColor="#ffffff"
+            android:textSize="18dp"
+            android:layout_alignTop="@+id/dispLocation"
+            android:layout_toRightOf="@+id/user_icon"
+            android:layout_toEndOf="@+id/user_icon"
+            android:layout_marginLeft="10dp" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/imageView22"
+            android:src="@drawable/locationicon"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/dispUserName"
+            android:layout_toEndOf="@+id/dispUserName"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Bangalore"
+            android:id="@+id/dispLocation"
+            android:textColor="#ffffff"
+            android:layout_alignBottom="@+id/imageView22"
+            android:layout_toRightOf="@+id/imageView22"
+            android:layout_toEndOf="@+id/imageView22"
+            android:textSize="18dp"
+            android:layout_marginLeft="10dp" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/imageView41"
+            android:layout_toRightOf="@+id/dispLocation"
+            android:layout_toEndOf="@+id/dispLocation"
+            android:src="@drawable/clockicon"
+            android:layout_alignBottom="@+id/dispTime" />
+
+        <TextClock
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="14:28"
+            android:id="@+id/dispTime"
+            android:textColor="#ffffff"
+            android:format12Hour="hh:mm a"
+            tools:ignore="NewApi"
+            android:layout_alignTop="@+id/dispLocation"
+            android:layout_toRightOf="@+id/imageView41"
+            android:layout_toEndOf="@+id/imageView41"
+            android:textSize="18dp"
+            android:layout_marginLeft="10dp" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/imageView42"
+            android:src="@drawable/dateicon"
+            android:layout_alignBottom="@+id/dispDate"
+            android:layout_toRightOf="@+id/dispTime"
+            android:layout_toEndOf="@+id/dispTime" />
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="29.02.2016"
+            android:id="@+id/dispDate"
+            android:textColor="#ffffff"
+            android:layout_alignTop="@+id/dispTime"
+            android:layout_toRightOf="@+id/imageView42"
+            android:layout_toEndOf="@+id/imageView42"
+            android:textSize="18dp"
+            android:layout_marginLeft="10dp" />
+
+
+
+    </RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/abt_bng_heading"
+        android:id="@+id/abt_bng_head"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="30dp"
+        android:textColor="#000000"
+        android:layout_marginTop="15dp"
+        android:textSize="30dp"
+        android:paddingLeft="10dp" />
+
+    <ImageView
+        android:layout_width="450dp"
+        android:layout_height="200dp"
+        android:id="@+id/imageView8"
+        android:scaleType="fitXY"
+        android:src="@drawable/aboutbengaluru"
+        android:layout_below="@+id/abt_bng_head"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/details_one"
+        android:textSize="25dp"
+        android:layout_alignTop="@+id/imageView8"
+        android:textColor="#000000"
+        android:layout_toRightOf="@+id/imageView8"
+        android:layout_above="@+id/details_two"
+        android:text="Bengaluru (aka Bangalore) is the capital of India&amp;apos;s southern Karnataka state. The  center of India&amp;apos;s high-tech industry, the city is also known for its green spaces and nightlife. Near Cubbon park, Vidhana Soudha is its massive Neo-Dravidian legislative building. Former royal residences in an anglicised"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="30dp"
+        android:paddingTop="20dp" />
+
+    <TextView
+        android:layout_width="800dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/details_two"
+        android:textSize="25dp"
+        android:textColor="#000000"
+        android:text="version of the Kannada language name,&quot;Bengaluru&quot; . The earliest reference to the name &quot;Bangalore&quot; was found in a ninth-century Western Ganga Dynasty stone inscription on  a &quot;vira gallu&quot;(literally, &quot;hero stone&quot;, a rock edict extolling the virtues of a  warrier). In this inscription found in Begur, &quot;Bengaluru&quot; is referred to as a place in which a battle was fought in 890 CE. It states that the place was  part of the Ganga Kingdom until 1004 and was known as &quot;Bengaval-uru&quot;, the &quot;City of Guards&quot; in Halegannada (Old Kannada)."
+        android:layout_below="@+id/imageView8"
+        android:layout_alignLeft="@+id/abt_bng_head"
+        android:layout_alignStart="@+id/abt_bng_head"
+        android:layout_alignRight="@+id/details_one"
+        android:layout_alignEnd="@+id/details_one" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/imie_num"
+        android:layout_above="@+id/imageView8"
+        android:layout_toRightOf="@+id/abt_bng_head"
+        android:layout_toEndOf="@+id/abt_bng_head"
+        android:layout_marginLeft="111dp"
+        android:layout_marginStart="111dp"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:id="@+id/homeBtn"
+        android:background="@drawable/curve_button_white"
+        android:text="HOME"
+        android:textSize="13dp"
+        android:layout_marginRight="62dp"
+        android:layout_marginEnd="62dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/details_two"
+        android:layout_alignEnd="@+id/details_two" />
+
+</RelativeLayout>

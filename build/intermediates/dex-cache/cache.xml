@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.1.0_bf2a30387c51c9b2bbd9474077a802b9cc8a1408.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.1.0_82c13af6cf73f5a89e8edf9a6c44302ce9447f14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.1.0_82c4eae5d7f4e0f8b22b3fc63b6642a1e69ac33b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\commons-io-2.5_dc24a0b93629a02219247ae8152945c528ab21f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-beta1_c79a9b364463b30eca81de9b1da8e4ad37569b03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.1.0_d17137ac78bdece4181552b24020700be20872b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="471ce760dbf7b784fd74892b5113bca4e0d8def7">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0-beta1_22bdca272c94f92033af25b6a3d3f8ed377c5336.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.1.0_ebc56d7ec11cf835e4414f6fd5fb92640f2b0eea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1_aa56448866bab8262d8dbc75a4dbda799ca467f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_2883aab0ca23c5a711e17ae810921e4673e74fb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6fd4eef51a55508bdf3f43f8ad96992e1da3850b">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0-beta1_ef5d9928414756a47ed0e5d0a938feffb463ed54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.1.0_4283d53f2e507723ebc76e158dc37de0e5fb1914.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_1e2ee3a59c2558fd7ae89769a70d541f7fe0faba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-beta1_b018d85b9a6f68c518db34083a856682135ff108.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.1.0_02cf3bde1cc006215993d15a6a9956e4d0e9f796.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_cf8e390cab44ce4584ff7f277d2e27805306cf36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.1.0_dec98fe4b351efb0f7de3907ad95d0bfabe0eccc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.1.0_7c4b0274857fddbce8e0b6a85c812e9fc2732b83.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.1.0_5d46be5a4f684d229cb4b9530268023339dae144.jar" />
+    </item>
+    <item
+        jar="H:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1_8d8fad65b968c830c82bab0911f847c4f1a48f66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_44184e0d60bc7f5b8b3751980d6f0e00e23b0a04.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.1.0_ad539e919f98114436edcaa0a3effbce97a58661.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.1.0_0a2ee8483f4aab98457b86867748662f851e3dec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_85403c6bb7d5c1c1380bf5deaecef3835666e5f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.1.0_09739bf7caa4efe9fa0f51d7f3f82ff9b81644cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_0f7fb1e54365071908ee6d202eefe96fce9f2324.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-beta1_df6bf8a46d5c1a4b9909deeeccbf89374f12cdea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.1.0_807ce9a32449be63446328b7e7c5deef7c55ff44.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.1.0_13762b1b7dae74fc8fe5097a5717c96077ce3e73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.1.0_d1620bbe880d492aa604e2e8c399bfc8648a824f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.1.0_55997cb926055e079819846febeeffabf712fce7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-beta1_c848c8e98de840cb039b8d29eff3865768e014d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Ellip sonic\Desktop\TransitAds\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_2e4f48faa35013ccf108854ed070b32d7e1c4256.jar" />
+    </item>
+
+</items>

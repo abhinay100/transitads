@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.transit_ads.tabs.MainActivity"
+    android:fitsSystemWindows="true"
+    android:id="@+id/backgroundLayout">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mobile"
+        android:id="@+id/tvPhone"
+        android:textColor="#ffffff"
+        android:textSize="27dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/campaign"
+        android:layout_alignStart="@+id/campaign" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/email"
+        android:id="@+id/company_email"
+        android:textColor="#ffffff"
+        android:textSize="27dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/imageView18"
+        android:layout_toEndOf="@+id/imageView18"
+        android:layout_marginLeft="10dp"
+        android:layout_alignTop="@+id/imageView18" />
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="40dp"
+        android:id="@+id/imageView17"
+        android:src="@drawable/phone_icon"
+        android:layout_alignBottom="@+id/tvPhone"
+        android:layout_toLeftOf="@+id/tvPhone"
+        android:layout_toStartOf="@+id/tvPhone" />
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="40dp"
+        android:id="@+id/imageView18"
+        android:src="@drawable/mail_icon"
+        android:layout_below="@+id/contact_us"
+        android:layout_alignRight="@+id/contact_us"
+        android:layout_alignEnd="@+id/contact_us"
+        android:layout_marginTop="2dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/contact_us"
+        android:textColor="#ffffff"
+        android:textSize="27dp"
+        android:layout_marginBottom="19dp"
+        android:text="@string/contact_us"
+        android:layout_above="@+id/imageView17"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="180dp"
+        android:id="@+id/trasnsitAdLogo"
+        android:background="@android:color/transparent"
+        android:layout_marginTop="66dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/heading1"
+        android:id="@+id/text_enjoy"
+        android:textColor="#F7921E"
+        android:textSize="40dp"
+        android:textAlignment="center"
+        android:layout_marginTop="78dp"
+        android:layout_below="@+id/trasnsitAdLogo"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/campaign_with"
+        android:id="@+id/campaign"
+        android:textColor="#ffffff"
+        android:textSize="32dp"
+        android:layout_marginBottom="19dp"
+        android:textStyle="bold"
+        android:layout_above="@+id/contact_us"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

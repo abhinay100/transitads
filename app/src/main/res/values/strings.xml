@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Transit-ads</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_detaills_fetch">DetaillsFetch</string>
+    <string name="title_activity_otp_promo_code">OtpPromoCode</string>
+    <string name="title_activity_about_bengaluru">AboutBengaluru</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_otp_page1">Please enter the One-Time PIN recieved</string>
+    <string name="user_otp_page2">via SMS on your registered mobile number</string>
+
+    <string name="choose_add">Choose Your Adds Category</string>
+    <string name="powerd_by">Powered By</string>
+    <string name="contact_us">Contact us:</string>
+    <string name="mobile">+91-9035075087</string>
+    <string name="email">info@transitads.com</string>
+    <string name="dailogtxt">Your contact details will be shared\n\t\t\t\t\t\t\t with the advertiser !</string>
+    <string name="dailoginput">Hi, if your interested using free wifi,\n\t\tshare your information here...</string>
+    <string name="thanksInterest">Thanks for your interest !</string>
+    <string name="inputdailogheading">Welcome to Transit Ads</string>
+    <string name="heading1"> Enjoy your transit with all new experience of brand campaign. </string>
+    <string name="access_button">ACCESS</string>
+    <string name="menu_button">MENU</string>
+    <string name="reset_button">RESET</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="skip_button">SKIP</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="freewifi_button">Free wifi</string>
+    <string name="abt_bng_heading">About Bengaluru</string>
+    <string name="details_fetch_one">Access free WiFi just by entering your</string>
+    <string name="details_fetch_two">details below!!</string>
+    <string name="campaign_with">To campaign with Transitads,</string>
+    <string name="num_with_xx">XXXXXXXX693</string>
+    <string name="user_name">John Doeu</string>
+    <string name="ot_page_txt1">Hello</string>
+
+    <string name="location_updated_message">Location got Updated</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="last_update_time_label">Loc Last Updated</string>
+
+    <string name="terms_conditions">Terms and Conditions</string>
+    <string name="agree_button">Agree</string>
+    <string name="tc_one">* passengers details will not be shared with the advertiser or any other unauthorised persons.</string>
+    <string name="tc_two">* limited access through internet data will be given to the passengers after validating through OTP.</string>
+    <string name="tc_three">* passenger using unauthorised websites or any such contents by using Transitads internet data is not\t liable to the parent company. XYZ</string>
+
+
+    <!--<string name="abt_bng2">an anglicised version of the Kannada language name, &quot;Bengaluru&quot;. The earliest reference to the name &quot;Bangalore&quot; was found in a ninth-century Western Ganga Dynasty stone inscription on  a &quot;vira gallu&quot;(literally, &quot;hero stone&quot;, a rock edict extolling the virtues of a  warrier). In this inscription found in Begur, &quot;Bengaluru&quot; is referred to as a place in which a battle was fought in 890 CE. It states that the place was  part of the Ganga Kingdom until 1004 and was known as &quot;Bengaval-uru&quot;, the &quot;City of Guards&quot; in Halegannada (Old Kannada). </string>-->
+    <!--<string name="abt_bng1">Bengaluru (aka Bangalore) is the capital of India&apos;s southern Karnataka state. The  center of India&apos;s high-tech industry, the city is also known for its green spaces and nightlife. Near Cubbon park, Vidhana Soudha is its massive Neo-Dravidian legislative building. Former royal residences in the name \"Bengalore\" represents</string>-->
+    <!--<string name="aaa">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t </string>-->
+</resources>
